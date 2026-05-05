@@ -1,4 +1,4 @@
-import { CalendarHeart, Palette, Handshake, Clock, Building2 } from "lucide-react";
+import { CalendarHeart, Palette, Handshake, Clock, Building2, Users } from "lucide-react";
 import { Reveal } from "./Reveal";
 
 const services = [
@@ -7,6 +7,7 @@ const services = [
   { icon: Handshake, title: "Vendor Management", desc: "A trusted network handled with discretion and precision." },
   { icon: Clock, title: "Day-of Coordination", desc: "Calm, choreographed execution so you can be fully present." },
   { icon: Building2, title: "Private & Corporate", desc: "From intimate dinners to gala launches — refined for any occasion." },
+  { icon: Users, title: "Guest Experience", desc: "Seamless coordination that ensures every guest feels considered, welcomed, and impressed." },
 ];
 
 export const Services = () => (

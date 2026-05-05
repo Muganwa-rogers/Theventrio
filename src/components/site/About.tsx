@@ -1,9 +1,9 @@
 import { Reveal } from "./Reveal";
 
 const team = [
-  { name: "Amélie Laurent", role: "Creative Director", initials: "AL" },
-  { name: "Noah Bennett", role: "Lead Planner", initials: "NB" },
-  { name: "Saoirse Kim", role: "Design & Styling", initials: "SK" },
+  { name: "Amélie Laurent", role: "Design & Styling", initials: "AL" },
+  { name: "MúKundwa  Nellý", role: "Lead Planner", initials: "MN" },
+  { name: "M-Roģers", role: " Creative Director", initials: "MR" },
 ];
 
 export const About = () => (
